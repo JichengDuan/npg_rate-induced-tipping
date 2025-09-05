@@ -3,7 +3,7 @@ Notes and reproduced the code and figures while studying Prof. Ulrike Feudel’s
 
 The paper link: https://npg.copernicus.org/articles/30/481/2023/
 
-I wrote the code for Figures 4 to 9 in the paper and reproduced those plots. 
+I rewrote the code for Figures 4 to 9 in the paper and reproduced those plots. 
 
 Figures 10 to 12 only require following the approach from Figures 6 and 7. 
 
