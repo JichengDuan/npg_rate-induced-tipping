@@ -1,9 +1,9 @@
 # npg_rate-induced-tipping
-[Notes](https://github.com/JichengDuan/npg_rate-induced-tipping/tree/main/notes) and reproduced the code and figures while studying Prof. Ulrike Feudel’s paper ‘Rate-induced tipping in ecosystems and climate: the role of unstable states, basin boundaries and transient dynamics’
+[Notes](https://github.com/JichengDuan/npg_rate-induced-tipping/tree/main/notes) and reproduced the [code](https://github.com/JichengDuan/npg_rate-induced-tipping/tree/main/code) and figures while studying Prof. Ulrike Feudel’s paper ‘Rate-induced tipping in ecosystems and climate: the role of unstable states, basin boundaries and transient dynamics’
 
 The paper link: https://npg.copernicus.org/articles/30/481/2023/
 
-I rewrote the [code](https://github.com/JichengDuan/npg_rate-induced-tipping/tree/main/code) for Figures 4 to 9 in the paper and reproduced those plots. 
+I rewrote the code for Figures 4 to 9 in the paper and reproduced those plots. 
 
 Figures 10 to 12 only require following the approach from Figures 6 and 7. 
 
