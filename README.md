@@ -1,2 +1,6 @@
 # npg_rate-induced-tipping
 Notes and reproduced the code and figures while studying Prof. Ulrike Feudel’s paper ‘Rate-induced tipping in ecosystems and climate: the role of unstable states, basin boundaries and transient dynamics’
+The paper link: https://npg.copernicus.org/articles/30/481/2023/
+I wrote the code for Figures 4 to 9 in the paper and reproduced those plots. 
+Figures 10 to 12 only require following the approach from Figures 6 and 7. 
+Note that my Figure 4 is different from the original. I actually got the opposite conclusion, since the paper’s stability analysis was incorrect.
