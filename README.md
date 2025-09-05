@@ -13,4 +13,4 @@ In a three-box AMOC model, I found a similar phenomenon and carried out a prelim
 
 The method was inspired by Prof. Ulrike Feudel’s paper, and I wrote a short note about it.
 
-I also made a video to show the evolution of the rate basin in the three-box model.
+I also made a [video](https://github.com/JichengDuan/npg_rate-induced-tipping/tree/main/video) to show the evolution of the rate basin in the three-box model.
